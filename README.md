@@ -1,3 +1,3 @@
-# Lists and Arrays HW
+# Tic Tac Toe Mini Project
 
-Problem: 
+Create a playable tic tac toe game using 2D arrays.
